@@ -105,3 +105,5 @@ function ConvertVideoFiles ($File) {
 	Write-Output "ConvertVideoFiles";
 }
 TotalLiveFolder("G:\transfering")
+TotalLiveFolder("D:\transfering")
+TotalLiveFolder("F:\transfering")
